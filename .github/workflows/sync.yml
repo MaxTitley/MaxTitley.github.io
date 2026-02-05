@@ -49,3 +49,4 @@ jobs:
           git add index.md
           git commit -m "Update portfolio from Notion" || echo "No changes to commit"
           git push
+theme: jekyll-theme-Midnight
